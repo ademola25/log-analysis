@@ -39,4 +39,5 @@ This project is run on a virutal machine created using Vagrant:
     Error of days with more than 1% Requests:
         July 17, 2016 ---> 2.3% errors
 ## no view is used
+Since it is optional
 
